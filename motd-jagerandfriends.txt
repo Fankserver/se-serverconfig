@@ -1,0 +1,16 @@
+Welcome to our Space engineers server!
+
+Admins: Fank & Jagernaut
+Admins will activly maintain the server performance/stability.
+The server is monitored here http://grafana.fankserver.com/d/BbITTqKik/space-engineers-jagger-and-friends
+We have a Discord for this Server. If you want to join, ask an Admin, or the other Players.
+
+----- INFOS ABOUT GAMEPLAY -----
+1. Spawn with a Ship you like.  Mining [M] ; Trading [T] ; Fighting [W] ; Survival [S] ( The normal Game )
+2. Explore, trade, mine, fight, join a faction, buy ship components, upgrade your Ship AND have fun!
+
+-----  INFOS ABOUT MODS AND PLANNED CHANGES -----
+Spawn: The planetary landers are spawning mid-space. We are currently figuring out, how we can fix this. The Ships work fine.
+                To get you the survival option, we placed a emergency-medbay on the earth with some landers an wrecks.
+Ice-processing-mod: The hydrogen generators are very OP and will be removed in the next days, so don't build ships that rely on these generators.
+Nanite-System: This Mod drags much server performance, so please build only one per player and turn them off, if you don't use them. THANKS!  :)
